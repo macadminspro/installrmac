@@ -57,6 +57,6 @@ installr es particularmente útil con Macs con chips T2, que no son compatibles 
 
 ## Licencia
 
-## Traduccion al castellano de la obra original de Greg Neagle https://github.com/munki/installr
+## Adaptación de la obra original de Greg Neagle https://github.com/munki/installr
 
 
